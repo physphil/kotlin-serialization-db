@@ -1,0 +1,42 @@
+[
+    {
+        "firstName": "Ricky",
+        "lastName": "Vaughn",
+        "number": 99,
+        "nickname": "Wild Thing",
+        "active": true,
+        "bats": "R",
+        "throws": "R",
+        "birthDate": "02/01/85"
+    },
+    {
+        "firstName": "Jake",
+        "lastName": "Taylor",
+        "number": 7,
+        "nickname": null,
+        "active": true,
+        "bats": "R",
+        "throws": "R",
+        "birthDate": "31/05/72"
+    },
+    {
+        "firstName": "Willie",
+        "lastName": "Mays Hayes",
+        "number": 0,
+        "nickname": null,
+        "active": true,
+        "bats": "S",
+        "throws": "R",
+        "birthDate": "12/08/86"
+    },
+    {
+        "firstName": "Pedro",
+        "lastName": "Cerrano",
+        "number": 13,
+        "nickname": null,
+        "active": true,
+        "bats": "R",
+        "throws": "L",
+        "birthDate": "09/12/79"
+    }
+]
