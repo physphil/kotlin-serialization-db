@@ -44,5 +44,19 @@
             "position": 9,
             "birth_date": "09/12/79"
         }
-    ]
+    ],
+    "message": {
+        "title": "this is the title",
+        "data": {
+            "first_name": "Ricky",
+            "last_name": "Vaughn",
+            "number": 99,
+            "nickname": "Wild Thing",
+            "active": true,
+            "bats": "Right",
+            "throws": "Right",
+            "position": 1,
+            "birth_date": "02/01/85"
+        }
+    }
 }
